@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Julscha9291
 - 👀 I’m interested in software engineering, cycling, and cooking
-- 🌱 I’m currently learning Java
 - 📫 You can reach me at: https://julianschaepermeier.com/
 
 
