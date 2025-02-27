@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Julscha9291
-- 👀 I’m interested in software engineering, cycling, and cooking
+- 👀 I’m interested in data and software engineering, cycling, and cooking
 - 📫 You can reach me at: https://julianschaepermeier.com/
 
 
